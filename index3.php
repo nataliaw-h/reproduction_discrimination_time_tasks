@@ -299,31 +299,31 @@
 	    else if (i===3) {a=4000; b=2500; imageName1 = 'cherry'; imageName2 = 'lamp';}
 	    else if (i===4) {a=2500; b=1600; imageName1 = 'strawberry'; imageName2 = 'sink';}
 	    else if (i===5) {a=4800; b=3000; imageName1 = 'coconut'; imageName2 = 'sofa';}
-		else if (i===6) {a=10000; b=10000; imageName1 = 'pear'; imageName2 = 'table';}
-	    else if (i===7) {a=9000; b=6800; imageName1 = 'pineapple'; imageName2 = 'tv';}
+	    else if (i===6) {a=10000; b=10000; imageName1 = 'pear'; imageName2 = 'table';}
+	    else if (i===7) {a=8300; b=6800; imageName1 = 'pineapple'; imageName2 = 'tv';}
 	    else if (i===8) {a=5400; b=4000; imageName1 = 'kiwi'; imageName2 = 'wash';}
-        else if (i===9) {a=10000; b=10400; imageName1 = 'coconut'; imageName2 = 'horse';}
+       	    else if (i===9) {a=10000; b=9500; imageName1 = 'coconut'; imageName2 = 'horse';}
 	    else if (i===10) {a=3600; b=2000; imageName1 = 'banana'; imageName2 = 'sofa';}
 	    else if (i===11) {a=2500; b=1600; imageName1 = 'strawberry'; imageName2 = 'cupboard';}
 	    else if (i===12) {a=4800; b=3000; imageName1 = 'cherry'; imageName2 = 'lamp';}
-		else if (i===13) {a=10000; b=10400; imageName1 = 'pear'; imageName2 = 'table';}
-	    else if (i===14) {a=9000; b=6800; imageName1 = 'lemon'; imageName2 = 'sink';}
+	    else if (i===13) {a=10000; b=9500; imageName1 = 'pear'; imageName2 = 'table';}
+	    else if (i===14) {a=8300; b=6800; imageName1 = 'lemon'; imageName2 = 'sink';}
 	    else if (i===15) {a=5400; b=4000; imageName1 = 'pineapple'; imageName2 = 'wash';}
-        else if (i===16) {a=8600; b=8300; imageName1 = 'kiwi'; imageName2 = 'horse';}
+            else if (i===16) {a=8600; b=8300; imageName1 = 'kiwi'; imageName2 = 'horse';}
 	    else if (i===17) {a=4000; b=2500; imageName1 = 'cherry'; imageName2 = 'tv';}
 	    else if (i===18) {a=7000; b=8000; imageName1 = 'strawberry'; imageName2 = 'sink';}
 	    else if (i===19) {a=3600; b=2000; imageName1 = 'coconut'; imageName2 = 'table';}
-		else if (i===20) {a=10000; b=10000; imageName1 = 'banana'; imageName2 = 'wash';}
+	    else if (i===20) {a=10000; b=10000; imageName1 = 'banana'; imageName2 = 'wash';}
 	    else if (i===21) {a=4800; b=3000; imageName1 = 'cherry'; imageName2 = 'lamp';}
-	    else if (i===22) {a=9000; b=6800; imageName1 = 'lemon'; imageName2 = 'sink';}
-        else if (i===23) {a=3600; b=2000; imageName1 = 'pineapple'; imageName2 = 'table';}
+	    else if (i===22) {a=8300; b=6800; imageName1 = 'lemon'; imageName2 = 'sink';}
+            else if (i===23) {a=3600; b=2000; imageName1 = 'pineapple'; imageName2 = 'table';}
 	    else if (i===24) {a=5400; b=4000; imageName1 = 'cherry'; imageName2 = 'wash';}
-        else if (i===25) {a=8600; b=8300; imageName1 = 'kiwi'; imageName2 = 'horse';}
-        else if (i===26) {a=2500; b=1600; imageName1 = 'strawberry'; imageName2 = 'cupboard';}
-        else if (i===27) {a=10000; b=10400; imageName1 = 'pear'; imageName2 = 'sofa';}
+            else if (i===25) {a=8600; b=8300; imageName1 = 'kiwi'; imageName2 = 'horse';}
+            else if (i===26) {a=2500; b=1600; imageName1 = 'strawberry'; imageName2 = 'cupboard';}
+            else if (i===27) {a=10000; b=9500; imageName1 = 'pear'; imageName2 = 'sofa';}
 	    else if (i===28) {a=7000; b=8000; imageName1 = 'coconut'; imageName2 = 'sink';}
-		else if (i===29) {a=10000; b=10000; imageName1 = 'banana'; imageName2 = 'wash';}
-        else if (i===30) {a=4000; b=2500; imageName1 = 'cherry'; imageName2 = 'tv';}
+	    else if (i===29) {a=10000; b=10000; imageName1 = 'banana'; imageName2 = 'wash';}
+            else if (i===30) {a=4000; b=2500; imageName1 = 'cherry'; imageName2 = 'tv';}
         
 	
 	    setTimeout(function(){ 
@@ -370,7 +370,7 @@
         else if (i===5){
             w5 = 1;
         }
-		else if (i===6){
+	else if (i===6){
             w6 = 1;
         }
         else if (i===7){
@@ -391,7 +391,7 @@
         else if (i===12){
             w12 = 1;
         }
-		else if (i===13){
+	else if (i===13){
             w13 = 1;
         }
         else if (i===14){
@@ -412,7 +412,7 @@
         else if (i===19){
             w19 = 1;
         }
-		else if (i===20){
+	else if (i===20){
             w20 = 1;
         }
         else if (i===21){
@@ -421,7 +421,7 @@
         else if (i===22){
             w22 = 1;
         }
-		else if (i===23){
+	else if (i===23){
             w23 = 1;
         }
         else if (i===24){
@@ -442,20 +442,20 @@
         else if (i===29){
             w29 = 1;
         }
-		else if (i===30){
+	else if (i===30){
             w30 = 1;
         }
         
         i++;
-		sequence();
+	sequence();
 		
 	}
 	
 	function save2(){
 		
-		document.getElementById('4').style.visibility='hidden';
+	document.getElementById('4').style.visibility='hidden';
 	
-		if (i===1){
+	if (i===1){
             w1 = 2;
         }
         else if (i===2){
@@ -470,7 +470,7 @@
         else if (i===5){
             w5 = 2;
         }
-		else if (i===6){
+	else if (i===6){
             w6 = 2;
         }
         else if (i===7){
@@ -491,7 +491,7 @@
         else if (i===12){
             w12 = 2;
         }
-		else if (i===13){
+	else if (i===13){
             w13 = 2;
         }
         else if (i===14){
@@ -512,7 +512,7 @@
         else if (i===19){
             w19 = 2;
         }
-		else if (i===20){
+	else if (i===20){
             w20 = 2;
         }
         else if (i===21){
@@ -521,7 +521,7 @@
         else if (i===22){
             w22 = 2;
         }
-		else if (i===23){
+	else if (i===23){
             w23 = 2;
         }
         else if (i===24){
@@ -542,18 +542,18 @@
         else if (i===29){
             w29 = 2;
         }
-		else if (i===30){
+	else if (i===30){
             w30 = 2;
         }
 		
-		i++;
-		sequence();
+	i++;
+	sequence();
 		
 	}
 	
 	function sequence(){
 	
-			setTimeout(function(){
+		setTimeout(function(){
 	
 	        if (i===31) {
 		        document.getElementById('6').style.visibility='visible';
@@ -574,7 +574,7 @@
 		            else if (i===5){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 5</center></section2>";
 		            }
-					else if (i===6){
+			    else if (i===6){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 6</center></section2>";
 		            }
 		            else if (i===7){
@@ -583,7 +583,7 @@
 		            else if (i===8){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 8</center></section2>";
 		            }
-                    else if (i===9){
+                    	    else if (i===9){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 9</center></section2>";
 		            }
 		            else if (i===10){
@@ -592,7 +592,7 @@
 		            else if (i===11){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 11</center></section2>";
 		            }
-					else if (i===12){
+			    else if (i===12){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 12</center></section2>";
 		            }
 		            else if (i===13){
@@ -601,7 +601,7 @@
 		            else if (i===14){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 14</center></section2>";
 		            }
-                    else if (i===15){
+                    	    else if (i===15){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 15</center></section2>";
 		            }
 		            else if (i===16){
@@ -610,7 +610,7 @@
 		            else if (i===17){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 17</center></section2>";
 		            }
-					else if (i===18){
+			    else if (i===18){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 18</center></section2>";
 		            }
 		            else if (i===19){
@@ -619,10 +619,10 @@
 		            else if (i===20){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 20</center></section2>";
 		            }
-                    else if (i===21){
+                    	    else if (i===21){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 21</center></section2>";
 		            }
-					else if (i===22){
+		    	    else if (i===22){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 22</center></section2>";
 		            }
 		            else if (i===23){
@@ -631,7 +631,7 @@
 		            else if (i===24){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 24</center></section2>";
 		            }
-                    else if (i===25){
+                    	    else if (i===25){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 25</center></section2>";
 		            }
 		            else if (i===26){
@@ -640,7 +640,7 @@
 		            else if (i===27){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 27</center></section2>";
 		            }
-					else if (i===28){
+		    	    else if (i===28){
 		                document.getElementById("5").innerHTML = "<section2><center>Próba 28</center></section2>";
 		            }
 		            else if (i===29){
